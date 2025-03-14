@@ -1,9 +1,4 @@
-# E-Book Reader Clone App UI
-
-- [Support me on Patreon](https://www.patreon.com/sopheamenvan?fan_landing=true)
-- [Watch on youtube](https://www.youtube.com/watch?v=XC4WfzrfbWI&t=453s)
-
-![App](https://user-images.githubusercontent.com/16510597/187694120-d9aff239-ebc2-4339-9269-fc04933eb05e.png)
+# E-Book Reader App
 
 A new Flutter project.
 
