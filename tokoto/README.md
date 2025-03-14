@@ -20,6 +20,6 @@
 
 => Order
 
-=> Profile (added)
+=> Profile
 
-=> Bottom Navigation Bar (added)
+=> Bottom Navigation Bar
